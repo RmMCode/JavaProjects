@@ -1,18 +1,1 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+I made a custom PacMan game in JavaFX using the principles of OOP (Object-Oriented Programming) and Swing.      Players can navigate their PacMan through a maze, collecting food, power pellets, and cherries while avoiding the ghosts that are also circling around the maze.                                                                        The game has features such as portal teleportation, ghost AI, pause/reset button functionality, and level completion messages.
